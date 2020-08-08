@@ -1,2 +1,14 @@
 # NSI-Dictionary
-Collection of each period。
+
+## 16
+
+## 17
+**ZYA** [Github](https://github.com/zyazhb) [blog](https://zyazhb.github.io)  
+## 18
+**Tao** [Github](https://github.com/LordHumphrey)   
+**HT** [CSDN](https://blog.csdn.net/qq_18347653) [JUEJIN](https://juejin.im/user/3544481221314120)  
+
+## 19
+**HJP** [Github](https://github.com/mashiro01) [blog](https://github.com/mashiro01/something)  
+**WBL** [Github](https://github.com/Dizzy-K) [blog](http://blog.dizzyk.com)  
+**JTQ** [CSDN](https://blog.csdn.net/qq_45467212)  
