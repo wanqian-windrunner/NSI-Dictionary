@@ -19,7 +19,8 @@
 
 ## 21
 
-**CYA** [GitHub](https://github.com/sfc9982)
+**CYA** [GitHub](https://github.com/sfc9982)  
+**NZH** [Github](https://github.com/cykahankxd) [blog](https://cykahankxd.github.io/)  
 
 ## 22
 **WYS** [GitHub](https://github.com/11123487)  
