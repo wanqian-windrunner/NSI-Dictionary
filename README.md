@@ -26,9 +26,6 @@
 
 ## 22
 **WYS** [GitHub](https://github.com/11123487)  
-**LDB** [Github](https://github.com/Akergarrett)  
-**CH**  [GitHub](https://github.com/warnningrunner)  
 **WH** [Github](https://github.com/QYZY)  
 **CRB** [GitHub](https://github.com/chen04-bin)  
 **LJY** [Github](https://github.com/Pluto1109)  
-**XL**  [GitHub](https://github.com/seven0409)
