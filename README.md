@@ -26,7 +26,6 @@
 **FZY** [GitHub](https://github.com/xchgeaxeax)
 
 ## 22
-**WYS** [GitHub](https://github.com/11123487)  
 **WH** [Github](https://github.com/QYZY)  
 **CRB** [GitHub](https://github.com/chen04-bin)  
 **LJY** [Github](https://github.com/Pluto1109)  
